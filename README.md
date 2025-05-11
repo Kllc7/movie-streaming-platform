@@ -18,7 +18,7 @@ To set up the project locally, follow these instructions:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/movie-streaming-platform.git
+   git clone https://github.com/Kllc7/movie-streaming-platform.git
    cd movie-streaming-platform
    ```
 
